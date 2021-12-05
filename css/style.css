@@ -109,3 +109,38 @@ a:hover{
 #testimonials img{
 	border-radius: 50%;
 }
+
+.news-post img{
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+.news-post h3{
+	font-size: 1.35rem;
+}
+
+.news-post h3 a {
+	color: #e74c3c;
+}
+
+.post-date{
+	font-size: 13px;
+	margin-bottom: 2px;
+}
+
+.post-date:before{
+	content: "\f073";
+	font-family: fontAwesome;
+	margin-right: 5px;
+}
+
+a.readMore{
+	font-size: 14px;
+	color: #e74c3c;
+}
+
+a.readMore:after{
+	content: "\f101";
+	font-family: fontAwesome;
+	margin-left: 5px;
+}
