@@ -86,3 +86,26 @@ a:hover{
 	color: #e74c3c;
 	margin-bottom: 15px;
 }
+
+#testimonials{
+	background: url('../img/testimonilas.jpg') no-repeat 0 0;
+	background-size: cover;
+	padding: 50px 0;
+	position: relative;
+	color: #fff;
+}
+
+
+#testimonials:before
+{
+  background: rgba(52,73,94,0.7);
+  content: "";
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+
+#testimonials img{
+	border-radius: 50%;
+}
