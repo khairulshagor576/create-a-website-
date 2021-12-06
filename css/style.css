@@ -2,8 +2,7 @@ a:hover{
 	text-decoration: none;
 }
 
-.section
-{
+.section{
 	padding-top: 70px;
 	padding-bottom: 70px;
 }
@@ -75,13 +74,11 @@ a:hover{
    padding: 10px;
 }
 
-.service-box
-{
+.service-box{
 	text-align: center;
 }
 
-.service-box i.fa
-{
+.service-box i.fa{
 	font-size: 70px;
 	color: #e74c3c;
 	margin-bottom: 15px;
@@ -96,8 +93,7 @@ a:hover{
 }
 
 
-#testimonials:before
-{
+#testimonials:before{
   background: rgba(52,73,94,0.7);
   content: "";
   position: absolute;
